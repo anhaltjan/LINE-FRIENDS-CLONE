@@ -46,6 +46,7 @@ h1 h2 h3 h4 h5 p{
 img {
     display: block;
     max-width: 100%;
+    margin: auto;
 }
 
 a {
